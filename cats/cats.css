@@ -1,0 +1,126 @@
+* {
+  padding: 0;
+  margin: 0 auto;
+}
+.section-1 {
+  background-color: #48403e;
+  color: #110b09;
+  padding: 1rem;
+}
+
+.heading {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+.section-1-h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  font-weight: 500;
+  text-decoration: underline 2px;
+}
+.section-1-h3 {
+  font-size: 2rem;
+  box-shadow: 0 5px 15px;
+  border-radius: 20%;
+  font-weight: 500;
+}
+.section-2 {
+  background-color: #48403e;
+  display: flex;
+}
+.cat-img-p {
+  font-size: 2rem;
+  font-weight: 300;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 25px;
+}
+.img-btn {
+  display: flex;
+  padding: 7px;
+  background-color: cyan;
+}
+.img-btn:hover {
+  background-color: black;
+  transition: 0.6s ease-in-out;
+}
+.section-3 {
+  background-color: #3e322f;
+}
+.cats-list {
+  padding: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.h1-section-3 {
+  font-size: 2rem;
+  box-shadow: 0 5px 15px;
+  border-radius: 20%;
+  font-weight: 500;
+}
+.ol {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.h3-section-3 {
+  padding-top: 35px;
+  font-size: 2rem;
+  font-weight: 500;
+  text-decoration: underline 1px;
+  padding-bottom: 1rem;
+}
+.section-4 {
+  background-color: #48403e;
+}
+.h1-section-4 {
+  font-size: 2rem;
+  box-shadow: 0 5px 15px;
+  border-radius: 20%;
+  font-weight: 500;
+  font-size: 2rem;
+  font-weight: 500;
+  text-decoration: underline 1px;
+  text-align: center;
+}
+.ol-section-4 {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.img-section-4 {
+  display: flex;
+  padding-bottom: 20px;
+}
+.section-5 {
+  background-color: #48403e;
+  padding: 10px;
+}
+.form {
+  padding: 10px;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.fieldset {
+  padding: 14px;
+  display: flex;
+}
+.footer {
+  background-color: #48403e;
+  display: flex;
+  font-size: 25px;
+  padding: 20px;
+  text-decoration: underline 1px;
+}
